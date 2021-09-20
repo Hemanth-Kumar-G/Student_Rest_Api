@@ -1,6 +1,8 @@
 # Student_Rest_Api
 
-
+# PostGreSql 
+download postgresql -:  https://www.postgresql.org/download/   
+download pgAdmin4 :- https://www.pgadmin.org/download/ 
 
 # Environment Variable : -
 
